@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="0001" fecha="13-02-2017">
+	<cliente>
+		<nombre>Miguel Perdomo</nombre>
+		<telefono>3105815126</telefono>
+	</cliente>
+	<articulos>
+		<articulo id="01">
+			<descripcion>Botas negras hombre</descripcion>
+			<precio-unitario>55000</precio-unitario>
+			<precio-final>60000</precio-final>
+			<cantidad>1</cantidad>
+		</articulo>
+	</articulos>
+	<precio-total>60000</precio-total>
+</factura>
